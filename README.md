@@ -1,12 +1,16 @@
 # Albert Shi
 
-Welcome to my portfolio! Here you can find information about my projects, skills, and experience.
+Welcome to my portfolio! Here you can find information about my projects, skills, and experiences.
 
 ## About Me
 
 I am an Electrical and Computer Engineering student at Princeton University, passionate about statistics and data analysis, machine learning, optimization, and automation. With hands-on experience from summer research internships and projects, I have developed a strong foundation in hardware integration, data analysis and visualization, and software development. My technical skills include programming in Python, Java, C, and MATLAB and expertise in Arduino, electronic circuit design, and soldering. I am dedicated to leveraging my skills to contribute to innovative solutions in technology and engineering.
 
-## Resume
+## Education
+
+- **Princeton University**  
+  *Bachelor of Science in Electrical and Computer Engineering*  
+  *Expected Graduation: 2026*
 
 ## Projects
 
@@ -25,14 +29,8 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
 - Created a solver for linear programming problems using the regular simplex method
 - Implemented step-by-step solution explanations for educational purposes
 
-## Education
-
-- **Princeton University**  
-  *Bachelor of Science in Electrical and Computer Engineering*  
-  *Expected Graduation: 2026*
-
 ## Contact
 
-- **Email:** albert.shi31@gmail.com
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/albert-shi-452857250/)
+- **albert.shi31@gmail.com:** 
+- **[LinkedIn](https://www.linkedin.com/in/albert-shi-452857250/)**
 
