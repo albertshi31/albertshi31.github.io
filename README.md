@@ -4,26 +4,9 @@ Welcome to my portfolio! Here you can find information about my projects, skills
 
 ## About Me
 
-I am an Electrical and Computer Engineering student with a passion for robotics, control systems, and programming. I have experience in various aspects of engineering including circuit design, feedback control systems, electronic instrumentation, and more.
+I am an Electrical and Computer Engineering student at Princeton University, passionate about statistics and data analysis, machine learning, optimization, and automation. With hands-on experience from summer research internships and projects, I have developed a strong foundation in hardware integration, data analysis and visualization, and software development. My technical skills include programming in Python, Java, C, and MATLAB and expertise in Arduino, electronic circuit design, and soldering. I am dedicated to leveraging my skills to contribute to innovative solutions in technology and engineering.
 
-## Skills
-
-- **Programming Languages:** Python, C++, MATLAB
-- **Tools & Technologies:** Arduino, ROS, Git, Jupyter Notebook
-- **Engineering Skills:** Soldering, circuit design, feedback control systems
-
-## Experience
-
-### Electrical and Computer Engineering Summer Internship
-
-- Worked with a 1/14 scale autonomous mini truck
-- Gained extensive knowledge in brushless DC motors, steering servos, and ESCs
-- Developed control algorithms and implemented feedback control systems
-
-### Vice President of Princeton Club Tennis
-
-- Managed logistics and planning for club operations
-- Addressed members' concerns and recommendations to enhance the club experience
+## Resume
 
 ## Projects
 
@@ -50,6 +33,6 @@ I am an Electrical and Computer Engineering student with a passion for robotics,
 
 ## Contact
 
-- **Email:** albert.shi31@example.com
-- **LinkedIn:** https://www.linkedin.com/in/albert-shi-452857250/
+- **Email:** albert.shi31@gmail.com
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/albert-shi-452857250/)
 
