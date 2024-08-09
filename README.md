@@ -1,4 +1,4 @@
-# Your Name
+# Albert Shi
 
 Welcome to my portfolio! Here you can find information about my projects, skills, and experience.
 
@@ -46,11 +46,10 @@ I am an Electrical and Computer Engineering student with a passion for robotics,
 
 - **Princeton University**  
   *Bachelor of Science in Electrical and Computer Engineering*  
-  *Expected Graduation: 202X*
+  *Expected Graduation: 2026*
 
 ## Contact
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
-- **GitHub:** [your-github-profile](https://github.com/your-profile)
+- **Email:** albert.shi31@example.com
+- **LinkedIn:** https://www.linkedin.com/in/albert-shi-452857250/
 
