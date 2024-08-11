@@ -18,8 +18,9 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
 <a href="https://www.linkedin.com/in/albert-shi-452857250/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Icon" style="width: 30px; height:30px;"/>
 </a>
-
-
+<a href="https://github.com/albertshi31" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="LinkedIn Icon" style="width: 30px; height:30px;"/>
+</a>
 
 ---
 
