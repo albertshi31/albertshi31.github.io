@@ -7,7 +7,8 @@ Transportation Systems Summer Research Intern
 <img width="341" alt="Screenshot 2024-08-10 at 7 52 12 PM" src="https://github.com/user-attachments/assets/ce77e81a-9038-4d8d-af96-c5b1980a7e77">
 <img width="363" alt="Screenshot 2024-08-10 at 7 52 49 PM" src="https://github.com/user-attachments/assets/e948efef-ef31-48c1-8cf9-707bba1f50e7">
 
-I improved the design of the Basic Economic Analysis of MOVES-Style "Safe, Equitable, Affordable, Sustainable, High-quality" Mobility Systems website by standardizing spacing, emphasizing headings and titles, and adding boxes around cost calculations. Additionally, I adjusted colors for better readability and modified the margins to enhance alignment and provide a more spacious, horizontal layout.
+I improved the design of the Basic Economic Analysis of MOVES-Style "Safe, Equitable, Affordable, Sustainable, High-quality" Mobility Systems website by standardizing spacing, emphasizing headings and titles, and adding boxes around cost calculations. Additionally, I adjusted colors for better readability and modified the margins to enhance alignment and provide a more spacious, horizontal layout. Unfortunately, my design was never implemented, and I worked on a different project. 
+
 [Basic Economic Analysis of MOVES-Style Mobility Systems](https://www.cartsmobility.com/blog/basic-economic-analysis-of-moves-style-mobility-systems)
 
 # Mapbox ODD Maker
