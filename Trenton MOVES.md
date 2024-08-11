@@ -47,7 +47,8 @@ The final and most rewarding project involved understanding and improving the fl
 
 Nevertheless, one of my biggest breakthroughs happened when I managed to leverage Jupyter Notebook to reverse engineer the arguments of the animation.json file, allowing me to edit these parameters. Using this information, I could better understand how the simulation reacted to increases or decreases in the number of personTrips or autonomous taxis. 
 
+[Fleet Simulator](https://github.com/albertshi31/TrentonMOVES)
+
 <img width="416" alt="Screenshot 2024-08-10 at 9 07 06 PM" src="https://github.com/user-attachments/assets/f7e3563e-d278-4f6b-bbba-88162a076e0f">
 
 Further, I updated vehicle pop-up boxes to show the kiosk origin, number of completed personTrips, passenger wait times, and walking distances, enhancing the assessment of the autonomous vehicle system’s convenience and viability.
-
