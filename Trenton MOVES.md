@@ -7,27 +7,33 @@ Transportation Systems Summer Research Intern
 <img width="341" alt="Screenshot 2024-08-10 at 7 52 12 PM" src="https://github.com/user-attachments/assets/ce77e81a-9038-4d8d-af96-c5b1980a7e77">
 <img width="363" alt="Screenshot 2024-08-10 at 7 52 49 PM" src="https://github.com/user-attachments/assets/e948efef-ef31-48c1-8cf9-707bba1f50e7">
 
-I improved the design of the Basic Economic Analysis of MOVES-Style "Safe, Equitable, Affordable, Sustainable, High-quality" Mobility Systems website by standardizing spacing, emphasizing headings and titles, and adding boxes around cost calculations. Additionally, I adjusted colors for better readability and modified the margins to enhance alignment and provide a more spacious, horizontal layout. Unfortunately, my design was never implemented, and I worked on a different project. 
+I improved the design of the Basic Economic Analysis of MOVES-Style Mobility Systems website by standardizing spacing, emphasizing headings and titles, and adding boxes around cost calculations. Additionally, I adjusted colors for better readability and modified the margins to enhance alignment. Unfortunately, my design was never implemented, and I worked on a different project. 
 
 [Basic Economic Analysis of MOVES-Style Mobility Systems](https://www.cartsmobility.com/blog/basic-economic-analysis-of-moves-style-mobility-systems)
 
 # Mapbox ODD Maker
-The second project I worked on consisted of helping code the Operational Design Domain (ODD) Maker Interface. This website would help establish an ODD based on an enclosed area that the user would select. In order to accomplish this, our team wanted to begin using Mapbox API as it would allow us to obtain GEOJson data for our desired areas in Trenton, Little Rock, etc. For this project, I helped work on being able to enclose a certain area using the draw_polygon tool and adding visible markers that would represent airports. 
-I had worked on implementing these draw tools, along with other minute details, for around two weeks. However, I was soon pulled off of the project as other members in the research group had greater experience working with Mapbox and would be able to achieve the desired outcomes more efficiently and quickly.  
-Node Network and Minimum Spanning Tree
-Soon after working on Mapbox, I began working on a project that dealt with node networks and the NetworkX library. This project required coding in python in Google Colab, and we wanted to obtain a minimum spanning tree between a random sample of 50 nodes that represented kiosks. This minimum spanning tree between node networks would be a starting point for the paths that the autonomous vehicles would take to travel between kiosks and serve passengers. The picture above shows all of the nodes that the OSMnx library provided for a given bounding box. 
 
-If we were to take a direct approach to obtain the minimum spanning tree and take a random sample of 50 nodes, the nodes would not be connected in the resulting subgraph. This behavior and outcome occurs because the random sample of nodes are no longer directly adjacent as they were in the original bounding box. Thus, in order to ensure that the random sample of nodes would be connected in the subgraph of 50 nodes, I imported the Djikstra Library and, within the original bounding box, used a shortest path algorithm to find the optimal paths between the random sample of 50 nodes. After saving all of the paths in a dict, I wrote nested for loops that would find the nodes in the random sample of 50 and connect them with a yellow path. These paths seem consistent with what we would expect: a lot of the paths travel through freeways and highways to arrive at the destination node. 
-Beyond the minimum spanning tree between the random sample of 50 nodes, I wrote functions that would find the closest node(s) for an input of x, y coordinates and return the coordinates of all of the random sample of nodes.  
-Fleet Simulator
-The final project I worked on involved understanding and improving the fleet simulator. It had been coded a few years ago, but my teammates and I had a lot of trouble understanding the code and parsing through it. The code was not commented well, and it seemed to be all over the place. For instance, I would insert error statements in different functions in an attempt to figure out which pieces of code were running and when. Nevertheless, these error statements would never be run in the console. 
- 
-	After a few days of experimenting and reading, along with asking older students for advice and insight, I gained a better understanding of how the simulation worked. Everytime an ODD is selected, the simulation runs an animation.json file that has pre-computed the data. An animation is then run with a specific set of parameters and various data are computed. However, I realized that I could not change any of the parameters such as # of kiosks, # of vehicles, # of personTrips, etc. The function that created the animation.json file for the data in the simulation did not seem to be accessible. 
+<img width="628" alt="Screenshot 2024-08-10 at 8 41 07 PM" src="https://github.com/user-attachments/assets/cefb4a83-760f-42da-a1ce-4d06fc9c3ab5">
 
-	As a result, I used jupyter notebook and imported the os library to interact with and access my directories and files. I had to reverse engineer the arguments for the function that created the animation.json file, creating my own animation.json file and allowing me to edit the parameters I was unable to before. From then on, I could see and understand how the simulation reacted to increases or decreases in the number of personTrips or vehicles. Additionally, I could begin to edit and make changes to the simulation that would provide more useful data and improve readability. 
+I enhanced the Operational Design Domain (ODD) Maker Interface, a website allowing users to select and define an ODD. By integrating Mapbox GL JS documentation in Python and JavaScript into the existing framework, I improved the pixel visualization of user-selected domains, enhancing accuracy in forecasting demand and optimizing geospatial mappings. Our team used the Mapbox API to obtain GEOJson data for locations such as Trenton, New Jersey, and Little Rock, Arkansas. My contributions included implementing the draw_polygon tool to enclose specific areas and adding visible markers to represent airports
 
-With advice and insight from Professor Kornhauser, I changed the wording on the simulation to include the word “customer” rather than “passenger.”
+# Node Network and Minimum Spanning Tree
 
-Further, I edited the pop-up boxes for the vehicles to include which kiosk the vehicles came from and how many trips the vehicle had completed up until that timeframe. Also, I added the waittime for each passenger and how far the passenger had to walk to a specific kiosk. These metrics continue to be hugely beneficial for gauging whether or not the autonomous vehicles system would be convenient and a viable means of transportation for people.
-Next Steps 
-The next steps with Trenton MOVES and the Transportation System Research would be to continue updating the Fleet Simulator. For example, data such as the distribution of passenger waittimes or many passengers were served at each individual kiosk would be extremely beneficial. Further, figuring out how to indicate where passengers are being missed would be another area that could be looked into. 
+<img width="261" alt="Screenshot 2024-08-10 at 8 51 04 PM" src="https://github.com/user-attachments/assets/01346618-f8d5-4500-9884-85cb3dbc187a">
+<img width="307" alt="Screenshot 2024-08-10 at 8 51 17 PM" src="https://github.com/user-attachments/assets/e8214ae0-e0e2-4d0d-a118-0eb47e407b78">
+
+I worked on a project involving node networks using the NetworkX library in Python. We hoped to obtain a minimum spanning tree (MST) for a random sample of 50 nodes representing kiosks. This MST would serve as a foundation for autonomous vehicle paths. 
+
+I utilized the Djikstra Library to apply the shortest path algorithm to the 50 randomly selected nodes within the original bounding box, ensuring connectivity between nodes. The yellow paths visualize the connections between nodes and remain consistent with what we expect: many paths travel through freeways and highways to arrive at the destination node. 
+
+# Fleet Simulator
+
+The final and most rewarding project involved understanding and improving the fleet simulator. A previous intern had coded it years prior, but the simulator was not commented well, making it extremely difficult to parse through. After troubleshooting and reaching out to those above me, I learned, over two weeks, that every time an ODD is selected, the simulation runs an animation.json file that has pre-computed the data. However, none of the parameters such as # of kiosks, # of vehicles, # of personTrips, etc could be changed because the function that created the animation.json file seemed inaccessible. 
+
+<img width="629" alt="Screenshot 2024-08-10 at 8 58 58 PM" src="https://github.com/user-attachments/assets/a78a07d3-04cc-4790-a5f5-dd3d479e4605">
+
+Nevertheless, one of my biggest breakthroughs happened when I managed to leverage Jupyter Notebook to reverse engineer the arguments of the animation.json file, allowing me to edit these parameters. Using this information, I could better understand how the simulation reacted to increases or decreases in the number of personTrips or autonomous taxis. 
+
+<img width="420" alt="Screenshot 2024-08-10 at 8 59 14 PM" src="https://github.com/user-attachments/assets/e150a15a-4912-4a81-bba5-f96824135480">
+
+Further, I updated vehicle pop-up boxes to show the kiosk origin, number of completed personTrips, passenger wait times, and walking distances, enhancing the assessment of the autonomous vehicle system’s convenience and viability.
