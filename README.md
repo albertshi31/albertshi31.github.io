@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! Here you can find information about my projects, skills, and experiences.
 
-<img src="/Users/albyyy/Documents/Princeton/Albyyy/Albert_Shi_Photo.jpg" alt="Albert Shi" style="width: 150px; height: 150px; border-radius: 50%;"/>
+<img src="![Albert_Shi_Photo](https://github.com/user-attachments/assets/a8084341-cd3e-4660-9a98-b0193e6f9ef6)" alt="Albert Shi" style="width: 150px; height: 150px; border-radius: 50%;"/>
 
 ## About Me
 
