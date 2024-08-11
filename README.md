@@ -16,7 +16,7 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
 
 <a href="mailto:albert.shi31@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail Icon" style="width: 30px; height:30px;"/></a>
 <a href="https://www.linkedin.com/in/albert-shi-452857250/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Icon" style="width: 20px; height:20px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Icon" style="width: 30px; height:30px;"/>
 </a>
 
 
