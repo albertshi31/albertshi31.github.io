@@ -14,6 +14,9 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
   *Bachelor of Science in Electrical and Computer Engineering*  
   *Expected Graduation: 2026*
 
+**Projects**
+
+
 ## Contact
 
 <a href="mailto:albert.shi31@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail Icon" style="width: 30px; height:30px;"/></a>
@@ -23,11 +26,3 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
 <a href="https://github.com/albertshi31" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="LinkedIn Icon" style="width: 30px; height:30px;"/>
 </a>
-
----
-
-| **Projects** | |
-|--------------|--|
-| **Autonomous Mini Truck** | - Developed and tested control algorithms for autonomous navigation <br> - Integrated sensors and actuators to achieve smooth and accurate control |
-| **Pololu Maestro Servo Controller Project** | - Worked with the Pololu Maestro servo controller using Python <br> - Shared feedback with the Pololu forums leading to software updates for the Maestro Control Center |
-| **Linear Programming Solver** | - Created a solver for linear programming problems using the regular simplex method <br> - Implemented step-by-step solution explanations for educational purposes |
