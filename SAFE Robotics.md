@@ -13,7 +13,7 @@ Utilizing an Arduino Nano and the built-in Hall Effect sensors of the brushless 
 
 ## PID Control
 
-<img width="1300" alt="Screenshot 2024-08-02 at 12 24 16 AM" src="https://github.com/user-attachments/assets/46e304b5-d7d4-46f3-ab87-e0abd21083ff">
+<img width="700" alt="Screenshot 2024-08-02 at 12 24 16 AM" src="https://github.com/user-attachments/assets/46e304b5-d7d4-46f3-ab87-e0abd21083ff">
 
 Building on the velocity measurement system, I designed and implemented a PID control system using Arduino-generated 50Hz PWM signals. This enabled the mini truck to adjust to and maintain velocities between 1 m/s and 10 m/s. 
 
