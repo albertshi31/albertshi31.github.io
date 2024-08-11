@@ -12,6 +12,10 @@ I worked exclusively with the 1/14-scale autonomous mini trucks in Professor Jai
 
 Utilizing an Arduino Nano and the built-in Hall Effect sensors of the brushless DC motor, I achieved a velocity measurement that Vicon data later validated to be accurate within 3%. This process involved reading the PWM signal from the Spektrum SLT3 Transmitter to the SR305 Receiver using an oscilloscope and replicating this signal using an Arduino Nano. 
 
+[Hall Effect Sensor Reading Code](https://github.com/albertshi31/MiniTruck/blob/main/working_HE_sensor_reading.ino)
+
+[Velocity Measurement Code](https://github.com/albertshi31/MiniTruck/blob/main/linear_velocity_reading.ino)
+
 <img width="300" alt="Screenshot 2024-08-11 at 11 22 49 AM" src="https://github.com/user-attachments/assets/5a5f4310-707e-4820-8411-859c07897433">
 
 The Arduino accurately reads the velocity of the mini-truck when the SLT3 Transmitter uses 50% throttle.
@@ -21,6 +25,8 @@ The Arduino accurately reads the velocity of the mini-truck when the SLT3 Transm
 <img width="700" alt="Screenshot 2024-08-02 at 12 24 16 AM" src="https://github.com/user-attachments/assets/46e304b5-d7d4-46f3-ab87-e0abd21083ff">
 
 Building on the velocity measurement system, I designed and implemented a PID control system using Arduino-generated 50Hz PWM signals. This enabled the mini truck to adjust to and maintain velocities between 1 m/s and 10 m/s. 
+
+[PID Control Code](https://github.com/albertshi31/MiniTruck/blob/main/PIDControl_FINAL.ino)
 
 ## Modular Control
 
@@ -32,5 +38,8 @@ Building on the velocity measurement system, I designed and implemented a PID co
 
 As a final capstone, I enhanced the SLT3 Transmitter’s AUX channel for modular control. Depending on the value of the duty cycle for the AUX channel, which is controlled using the SLT3's 3-Channel Switch, the mini-truck will seamlessly switch between PID-controlled and manual operation modes.
 
+[AUX Channel Duty Cycle Testing Code](https://github.com/albertshi31/MiniTruck/blob/main/AUX_Channel_Test.ino)
+
+[Modular Control Code](https://github.com/albertshi31/MiniTruck/blob/main/modular_control_FINAL.ino)
 
 
