@@ -8,11 +8,13 @@ I worked exclusively with the 1/14-scale autonomous mini trucks in Professor Jai
 
 <img src="https://github.com/user-attachments/assets/bd6f151a-467b-4c03-b645-8d0082da350d" alt="Mini Truck PWM" width="300"/>
 
-![IMG_5220 2](https://github.com/user-attachments/assets/50efaa4a-202a-43c9-8210-47d547f78f51)
+<img src="https://github.com/user-attachments/assets/50efaa4a-202a-43c9-8210-47d547f78f51" alt="Oscope PWM" width="300"/>
+
+Utilizing an Arduino Nano and the built-in Hall Effect sensors of the brushless DC motor, I achieved a velocity measurement that Vicon data later validated to be accurate within 3%. This process involved reading the PWM signal from the Spektrum SLT3 Transmitter to the SR305 Receiver using an oscilloscope and replicating this signal using an Arduino Nano. 
 
 <img width="300" alt="Screenshot 2024-08-11 at 11 22 49 AM" src="https://github.com/user-attachments/assets/5a5f4310-707e-4820-8411-859c07897433">
 
-Utilizing an Arduino Nano and the built-in Hall Effect sensors of the brushless DC motor, I achieved a velocity measurement that Vicon data later validated to be accurate within 3%. This process involved reading the PWM signal from the Spektrum SLT3 Transmitter to the SR305 Receiver using an oscilloscope and replicating this signal using an Arduino Nano. In the screenshot above, on the right, the Arduino accurately reads the velocity of the mini-truck when the SLT3 Transmitter uses 50% throttle.
+The Arduino accurately reads the velocity of the mini-truck when the SLT3 Transmitter uses 50% throttle.
 
 ## PID Control
 
