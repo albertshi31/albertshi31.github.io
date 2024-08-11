@@ -2,7 +2,8 @@
 
 Welcome to my portfolio! Here you can find information about my projects, skills, and experiences.
 
-![Albert_Shi_Photo](https://github.com/user-attachments/assets/a827c922-7896-4bd8-b26a-984a97d0febd)
+<img src="https://github.com/user-attachments/assets/a827c922-7896-4bd8-b26a-984a97d0febd" alt="Albert Shi Photo" width="150px" height="150px"/>
+
 
 ## About Me
 
