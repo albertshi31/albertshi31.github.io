@@ -19,7 +19,11 @@ Building on the velocity measurement system, I designed and implemented a PID co
 
 ## Modular Control
 
-As a final capstone, I enhanced the SLT3 Transmitter’s AUX channel for modular control, allowing seamless switching between PID-controlled and manual operation modes with the SLT3 Transmitter. This improvement provides a stepping stone for future advancements. For example, I briefly discussed the possibility of using AI to control the mini-truck with the graduate students. If this were to become a reality, the next step would be to leverage the AUX channel of the SR305 receiver to modularly switch between PID control, manual operation, and AI control.
-Throughout these projects, I gained valuable experience with prominent skills related to Electrical and Computer Engineering. I soldered many components, worked with microcontrollers like Arduino Nanos, and improved my proficiency with electronic instrumentation such as oscilloscopes, multimeters, and power supplies. Additionally, I performed a comprehensive analysis of the mini truck's hardware, documenting the technical specifications and capabilities of various components such as the brushless DC motor, steering servo, and ESC for ECE346 and research purposes. This extensive familiarity with these components has significantly enhanced my intuition for electronic components.
-Overall, this internship provided tremendous hands-on experience and deepened my understanding of both theoretical and practical aspects of Electrical and Computer Engineering, preparing me for future challenges and innovations. I am deeply grateful to the donors whose support made this internship possible. Thank you for supporting and helping students like me grow and succeed in fields such as Electrical and Computer Engineering.
+https://www.youtube.com/watch?v=jGswh1pgZLI
+https://www.youtube.com/watch?v=TGkLamtdMaw
+https://www.youtube.com/watch?v=QSj4fQSVbEg&feature=youtu.be
+
+As a final capstone, I enhanced the SLT3 Transmitter’s AUX channel for modular control. Depending on the value of the duty cycle for the AUX channel, which is controlled using the SLT3's 3-Channel Switch, the mini-truck will seamlessly switch between PID-controlled and manual operation modes.
+
+
 
