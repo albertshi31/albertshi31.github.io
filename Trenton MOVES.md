@@ -7,7 +7,7 @@ Transportation Systems Summer Research Intern
 <img width="341" alt="Screenshot 2024-08-10 at 7 52 12 PM" src="https://github.com/user-attachments/assets/ce77e81a-9038-4d8d-af96-c5b1980a7e77">
 <img width="363" alt="Screenshot 2024-08-10 at 7 52 49 PM" src="https://github.com/user-attachments/assets/e948efef-ef31-48c1-8cf9-707bba1f50e7">
 
-I improved the design of the Basic Economic Analysis of MOVES-Style "Safe, Equitable, Affordable, Sustainable, High-quality" Mobility Systems website by standardizing spacing, emphasizing headings and titles, and adding boxes around cost calculations. You also adjusted colors for better readability and modified the margins to enhance alignment and provide a more spacious, horizontal layout.
+I improved the design of the Basic Economic Analysis of MOVES-Style "Safe, Equitable, Affordable, Sustainable, High-quality" Mobility Systems website by standardizing spacing, emphasizing headings and titles, and adding boxes around cost calculations. Additionally, I adjusted colors for better readability and modified the margins to enhance alignment and provide a more spacious, horizontal layout.
 
 # Mapbox ODD Maker
 The second project I worked on consisted of helping code the Operational Design Domain (ODD) Maker Interface. This website would help establish an ODD based on an enclosed area that the user would select. In order to accomplish this, our team wanted to begin using Mapbox API as it would allow us to obtain GEOJson data for our desired areas in Trenton, Little Rock, etc. For this project, I helped work on being able to enclose a certain area using the draw_polygon tool and adding visible markers that would represent airports. 
