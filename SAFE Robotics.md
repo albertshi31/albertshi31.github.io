@@ -10,6 +10,7 @@ I worked exclusively with the 1/14-scale autonomous mini trucks in Professor Jai
 
 <img src="https://github.com/user-attachments/assets/50efaa4a-202a-43c9-8210-47d547f78f51" alt="Oscope PWM" width="375"/>
 
+
 Utilizing an Arduino Nano and the built-in Hall Effect sensors of the brushless DC motor, I achieved a velocity measurement that Vicon data later validated to be accurate within 3%. This process involved reading the PWM signal from the Spektrum SLT3 Transmitter to the SR305 Receiver using an oscilloscope and replicating this signal using an Arduino Nano. 
 
 [Hall Effect Sensor Reading Code](https://github.com/albertshi31/MiniTruck/blob/main/working_HE_sensor_reading.ino)
