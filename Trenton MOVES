@@ -1,1 +1,35 @@
 
+Albert Shi
+Operations Research and Finanical Engineering
+BSE, Class of 2026
+15 August 2023
+Transportation Systems Research Writeup
+Throughout the Transportation Systems Research Program, I have used python and javascript to code visualizations and simulations that help contribute to the implementation of autonomous vehicles in underrepresented communities such as Trenton.
+UI Improvements
+The first project I worked on involved improving the design of the Basic Economic Analysis of MOVES-Style "Safe, Equitable, Affordable, Sustainable, High-quality" Mobility Systems website. This website provided calculations for the revenue and costs associated with deploying a fleet autonomous vehicles, and our team wanted to give it a sleek design that improved aestheics, convenience, and readability. I had prior experience working with UI, so I extracted the HTML and CSS code from the website and began playing around with the spacing and colors. 
+
+From the old design to the new design, I changed the spacing to be more consistent and comfortable and added greater emphasis to the headings and titles. Additionally, I added boxes around the calculated costs and altered the colors to improve readability. Moreover, I changed the margins of the website itself so that the data and information would have better alignment and stretched out horizontally rather than compressed vertically. 
+
+I worked on this project for a few days, but after showing my work to my teammate, he informed me that another intern had actually been working on it and that I should work on something different.
+Mapbox ODD Maker
+The second project I worked on consisted of helping code the Operational Design Domain (ODD) Maker Interface. This website would help establish an ODD based on an enclosed area that the user would select. In order to accomplish this, our team wanted to begin using Mapbox API as it would allow us to obtain GEOJson data for our desired areas in Trenton, Little Rock, etc. For this project, I helped work on being able to enclose a certain area using the draw_polygon tool and adding visible markers that would represent airports. 
+I had worked on implementing these draw tools, along with other minute details, for around two weeks. However, I was soon pulled off of the project as other members in the research group had greater experience working with Mapbox and would be able to achieve the desired outcomes more efficiently and quickly.  
+Node Network and Minimum Spanning Tree
+Soon after working on Mapbox, I began working on a project that dealt with node networks and the NetworkX library. This project required coding in python in Google Colab, and we wanted to obtain a minimum spanning tree between a random sample of 50 nodes that represented kiosks. This minimum spanning tree between node networks would be a starting point for the paths that the autonomous vehicles would take to travel between kiosks and serve passengers. The picture above shows all of the nodes that the OSMnx library provided for a given bounding box. 
+
+If we were to take a direct approach to obtain the minimum spanning tree and take a random sample of 50 nodes, the nodes would not be connected in the resulting subgraph. This behavior and outcome occurs because the random sample of nodes are no longer directly adjacent as they were in the original bounding box. Thus, in order to ensure that the random sample of nodes would be connected in the subgraph of 50 nodes, I imported the Djikstra Library and, within the original bounding box, used a shortest path algorithm to find the optimal paths between the random sample of 50 nodes. After saving all of the paths in a dict, I wrote nested for loops that would find the nodes in the random sample of 50 and connect them with a yellow path. These paths seem consistent with what we would expect: a lot of the paths travel through freeways and highways to arrive at the destination node. 
+Beyond the minimum spanning tree between the random sample of 50 nodes, I wrote functions that would find the closest node(s) for an input of x, y coordinates and return the coordinates of all of the random sample of nodes.  
+Fleet Simulator
+The final project I worked on involved understanding and improving the fleet simulator. It had been coded a few years ago, but my teammates and I had a lot of trouble understanding the code and parsing through it. The code was not commented well, and it seemed to be all over the place. For instance, I would insert error statements in different functions in an attempt to figure out which pieces of code were running and when. Nevertheless, these error statements would never be run in the console. 
+ 
+	After a few days of experimenting and reading, along with asking older students for advice and insight, I gained a better understanding of how the simulation worked. Everytime an ODD is selected, the simulation runs an animation.json file that has pre-computed the data. An animation is then run with a specific set of parameters and various data are computed. However, I realized that I could not change any of the parameters such as # of kiosks, # of vehicles, # of personTrips, etc. The function that created the animation.json file for the data in the simulation did not seem to be accessible. 
+
+	As a result, I used jupyter notebook and imported the os library to interact with and access my directories and files. I had to reverse engineer the arguments for the function that created the animation.json file, creating my own animation.json file and allowing me to edit the parameters I was unable to before. From then on, I could see and understand how the simulation reacted to increases or decreases in the number of personTrips or vehicles. Additionally, I could begin to edit and make changes to the simulation that would provide more useful data and improve readability. 
+
+With advice and insight from Professor Kornhauser, I changed the wording on the simulation to include the word “customer” rather than “passenger.”
+
+Further, I edited the pop-up boxes for the vehicles to include which kiosk the vehicles came from and how many trips the vehicle had completed up until that timeframe. Also, I added the waittime for each passenger and how far the passenger had to walk to a specific kiosk. These metrics continue to be hugely beneficial for gauging whether or not the autonomous vehicles system would be convenient and a viable means of transportation for people.
+Next Steps 
+The next steps with Trenton MOVES and the Transportation System Research would be to continue updating the Fleet Simulator. For example, data such as the distribution of passenger waittimes or many passengers were served at each individual kiosk would be extremely beneficial. Further, figuring out how to indicate where passengers are being missed would be another area that could be looked into. 
+
+
