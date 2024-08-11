@@ -7,9 +7,9 @@ I worked exclusively with the 1/14-scale autonomous mini trucks in Professor Jai
 ## High Accuracy Velocity Measurement System
 
 <img src="https://github.com/user-attachments/assets/bd6f151a-467b-4c03-b645-8d0082da350d" alt="Mini Truck PWM" height="504px" width="378px"/>
-<img width="241" alt="Screenshot 2024-08-11 at 11 18 00 AM" src="https://github.com/user-attachments/assets/b2cd8928-335c-49b0-b3d6-4a71cc08b77c">
+<img width="592" alt="Screenshot 2024-08-11 at 11 22 49 AM" src="https://github.com/user-attachments/assets/5a5f4310-707e-4820-8411-859c07897433">
 
-Utilizing an Arduino Nano and the built-in Hall Effect sensors of the brushless DC motor, I achieved a velocity measurement that Vicon data later validated to be accurate within 3%. This process involved reading the PWM signal from the Spektrum SLT3 Transmitter to the SR305 Receiver using an oscilloscope and replicating this signal using an Arduino Nano. In the screenshot above, the arduino accurately reads the velocity of the mini-truck when the SLT3 Transmitter uses 50% throttle.
+Utilizing an Arduino Nano and the built-in Hall Effect sensors of the brushless DC motor, I achieved a velocity measurement that Vicon data later validated to be accurate within 3%. This process involved reading the PWM signal from the Spektrum SLT3 Transmitter to the SR305 Receiver using an oscilloscope and replicating this signal using an Arduino Nano. In the screenshot above, the Arduino accurately reads the velocity of the mini-truck when the SLT3 Transmitter uses 50% throttle.
 
 ## PID Control
 Building on this foundation, I designed and implemented a PID control system using Arduino-generated 50Hz PWM signals. This enabled the mini truck to adjust to and maintain velocities between 1 m/s and 10 m/s. As a final capstone, I enhanced the SLT3 Transmitter’s AUX channel for modular control, allowing seamless switching between PID-controlled and manual operation modes with the SLT3 Transmitter. This improvement provides a stepping stone for future advancements. For example, I briefly discussed the possibility of using AI to control the mini-truck with the graduate students. If this were to become a reality, the next step would be to leverage the AUX channel of the SR305 receiver to modularly switch between PID control, manual operation, and AI control.
