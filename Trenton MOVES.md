@@ -30,7 +30,7 @@ I utilized the Djikstra Library to apply the shortest path algorithm to the 50 r
 
 The final and most rewarding project involved understanding and improving the fleet simulator. A previous intern had coded it years prior, but the simulator was not commented well, making it extremely difficult to parse through. After troubleshooting and reaching out to those above me, I learned, over two weeks, that every time an ODD is selected, the simulation runs an animation.json file that has pre-computed the data. However, none of the parameters such as # of kiosks, # of vehicles, # of personTrips, etc could be changed because the function that created the animation.json file seemed inaccessible. 
 
-<img width="629" alt="Screenshot 2024-08-10 at 8 58 58 PM" src="https://github.com/user-attachments/assets/a78a07d3-04cc-4790-a5f5-dd3d479e4605">
+<img width="416" alt="Screenshot 2024-08-10 at 9 07 06 PM" src="https://github.com/user-attachments/assets/f7e3563e-d278-4f6b-bbba-88162a076e0f">
 
 Nevertheless, one of my biggest breakthroughs happened when I managed to leverage Jupyter Notebook to reverse engineer the arguments of the animation.json file, allowing me to edit these parameters. Using this information, I could better understand how the simulation reacted to increases or decreases in the number of personTrips or autonomous taxis. 
 
