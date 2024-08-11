@@ -30,12 +30,14 @@ I utilized the Djikstra Library to apply the shortest path algorithm to the 50 r
 
 ## ORF467 
 
-<img width="629" alt="Screenshot 2024-08-11 at 12 18 12 PM" src="https://github.com/user-attachments/assets/4f06965e-4397-4018-bdef-e87a1dc3b04f">
-<img width="636" alt="Screenshot 2024-08-11 at 12 18 22 PM" src="https://github.com/user-attachments/assets/73669399-95e8-4106-ac1b-c5af0ca36dbc">
+<img width="450" alt="Screenshot 2024-08-11 at 12 18 12 PM" src="https://github.com/user-attachments/assets/4f06965e-4397-4018-bdef-e87a1dc3b04f">
+<img width="450" alt="Screenshot 2024-08-11 at 12 18 22 PM" src="https://github.com/user-attachments/assets/73669399-95e8-4106-ac1b-c5af0ca36dbc">
 
 Using my knowledge of Seaborns, Numpy, and Pandas, I curated and analyzed Python files featuring comprehensive data and statistical visualizations that portrayed the Total Addressable Market in Trenton and user-determined Operational Design Domains. 13 students used this in ORF467: Transportation Systems Research, Fall 2023
 
-[ORF467](https://colab.research.google.com/drive/1XHDIEOPUnxyAP_18iCm7fsswaaMODdLX?authuser=1)
+[ORF467_trenton](https://colab.research.google.com/drive/1HjXzVmUr6pZZCCiQqu-tKOdwuXVpChRP?authuser=1)
+[ORF467_animation](https://colab.research.google.com/drive/1XHDIEOPUnxyAP_18iCm7fsswaaMODdLX?authuser=1)
+
 ## Fleet Simulator
 
 The final and most rewarding project involved understanding and improving the fleet simulator. A previous intern had coded it years prior, but the simulator was not commented well, making it extremely difficult to parse through. After troubleshooting and reaching out to those above me, I learned, over two weeks, that every time an ODD is selected, the simulation runs an animation.json file that has pre-computed the data. However, none of the parameters such as # of kiosks, # of vehicles, # of personTrips, etc could be changed because the function that created the animation.json file seemed inaccessible. 
