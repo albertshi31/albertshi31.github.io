@@ -12,25 +12,15 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
   *Bachelor of Science in Electrical and Computer Engineering*  
   *Expected Graduation: 2026*
 
-## Projects
-
-### Autonomous Mini Truck
-
-- Developed and tested control algorithms for autonomous navigation
-- Integrated sensors and actuators to achieve smooth and accurate control
-
-### Pololu Maestro Servo Controller Project
-
-- Worked with the Pololu Maestro servo controller using Python
-- Shared feedback with the Pololu forums leading to software updates for the Maestro Control Center
-
-### Linear Programming Solver
-
-- Created a solver for linear programming problems using the regular simplex method
-- Implemented step-by-step solution explanations for educational purposes
-
 ## Contact
 
-- **albert.shi31@gmail.com:** 
-- **[LinkedIn](https://www.linkedin.com/in/albert-shi-452857250/)**
+- <img src="https://img.icons8.com/ios-filled/24/000000/mail.png" alt="Gmail Icon"/> **Email:** albert.shi31@gmail.com
+- <img src="https://img.icons8.com/ios-filled/24/000000/linkedin.png" alt="LinkedIn Icon"/> **[LinkedIn](https://www.linkedin.com/in/albert-shi-452857250/)**
 
+---
+
+| **Projects** | |
+|--------------|--|
+| **Autonomous Mini Truck** | - Developed and tested control algorithms for autonomous navigation <br> - Integrated sensors and actuators to achieve smooth and accurate control |
+| **Pololu Maestro Servo Controller Project** | - Worked with the Pololu Maestro servo controller using Python <br> - Shared feedback with the Pololu forums leading to software updates for the Maestro Control Center |
+| **Linear Programming Solver** | - Created a solver for linear programming problems using the regular simplex method <br> - Implemented step-by-step solution explanations for educational purposes |
