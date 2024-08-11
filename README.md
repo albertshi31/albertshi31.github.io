@@ -14,8 +14,11 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
 
 ## Contact
 
-<a href="mailto:albert.shi31@gmail.com" target="_blank"><img src="https://img.icons8.com/ios-filled/24/CD5C5C/gmail.png" alt="Gmail Icon"/></a>
-<a href="https://www.linkedin.com/in/albert-shi-452857250/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Icon"/></a>
+<a href="mailto:albert.shi31@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail Icon" style="width: 20px; height:20px;"/></a>
+<a href="https://www.linkedin.com/in/albert-shi-452857250/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Icon" style="width: 20px; height:20px;"/>
+</a>
+
 
 
 ---
