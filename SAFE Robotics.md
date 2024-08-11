@@ -6,7 +6,7 @@ I worked exclusively with the 1/14-scale autonomous mini trucks in Professor Jai
 
 ## High Accuracy Velocity Measurement System
 
-<img src="https://github.com/user-attachments/assets/bd6f151a-467b-4c03-b645-8d0082da350d" alt="Mini Truck PWM" height="378px" width="504px"/>
+<img src="https://github.com/user-attachments/assets/bd6f151a-467b-4c03-b645-8d0082da350d" alt="Mini Truck PWM" height="504px" width="378px"/>
 
 Utilizing an Arduino Nano and the built-in Hall Effect sensors of the brushless DC motor, I achieved a velocity measurement that Vicon data later validated to be accurate within 3%. This process involved reading the PWM signal from the Spektrum SLT3 Transmitter to the SR305 Receiver using an oscilloscope and replicating this signal using an Arduino Nano. 
 
