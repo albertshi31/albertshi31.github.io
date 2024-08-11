@@ -19,9 +19,11 @@ Building on the velocity measurement system, I designed and implemented a PID co
 
 ## Modular Control
 
-https://www.youtube.com/watch?v=jGswh1pgZLI
-https://www.youtube.com/watch?v=TGkLamtdMaw
-https://www.youtube.com/watch?v=QSj4fQSVbEg&feature=youtu.be
+[ECE Summer Research Internship 2024 Final Demo](https://www.youtube.com/watch?v=jGswh1pgZLI)
+
+[Manual Control](https://www.youtube.com/watch?v=TGkLamtdMaw)
+
+[PID Control](https://www.youtube.com/watch?v=QSj4fQSVbEg&feature=youtu.be)
 
 As a final capstone, I enhanced the SLT3 Transmitter’s AUX channel for modular control. Depending on the value of the duty cycle for the AUX channel, which is controlled using the SLT3's 3-Channel Switch, the mini-truck will seamlessly switch between PID-controlled and manual operation modes.
 
