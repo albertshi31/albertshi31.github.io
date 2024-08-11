@@ -1,18 +1,15 @@
+## Trenton MOVES
 
+Transportation Systems Summer Research Intern
 
-Albert Shi
-Operations Research and Finanical Engineering
-BSE, Class of 2026
-15 August 2023
-Transportation Systems Research Writeup
-Throughout the Transportation Systems Research Program, I have used python and javascript to code visualizations and simulations that help contribute to the implementation of autonomous vehicles in underrepresented communities such as Trenton.
-UI Improvements
-The first project I worked on involved improving the design of the Basic Economic Analysis of MOVES-Style "Safe, Equitable, Affordable, Sustainable, High-quality" Mobility Systems website. This website provided calculations for the revenue and costs associated with deploying a fleet autonomous vehicles, and our team wanted to give it a sleek design that improved aestheics, convenience, and readability. I had prior experience working with UI, so I extracted the HTML and CSS code from the website and began playing around with the spacing and colors. 
+# UI Improvements
 
-From the old design to the new design, I changed the spacing to be more consistent and comfortable and added greater emphasis to the headings and titles. Additionally, I added boxes around the calculated costs and altered the colors to improve readability. Moreover, I changed the margins of the website itself so that the data and information would have better alignment and stretched out horizontally rather than compressed vertically. 
+<img width="341" alt="Screenshot 2024-08-10 at 7 52 12 PM" src="https://github.com/user-attachments/assets/ce77e81a-9038-4d8d-af96-c5b1980a7e77">
+<img width="363" alt="Screenshot 2024-08-10 at 7 52 49 PM" src="https://github.com/user-attachments/assets/e948efef-ef31-48c1-8cf9-707bba1f50e7">
 
-I worked on this project for a few days, but after showing my work to my teammate, he informed me that another intern had actually been working on it and that I should work on something different.
-Mapbox ODD Maker
+I improved the design of the Basic Economic Analysis of MOVES-Style "Safe, Equitable, Affordable, Sustainable, High-quality" Mobility Systems website by standardizing spacing, emphasizing headings and titles, and adding boxes around cost calculations. You also adjusted colors for better readability and modified the margins to enhance alignment and provide a more spacious, horizontal layout.
+
+# Mapbox ODD Maker
 The second project I worked on consisted of helping code the Operational Design Domain (ODD) Maker Interface. This website would help establish an ODD based on an enclosed area that the user would select. In order to accomplish this, our team wanted to begin using Mapbox API as it would allow us to obtain GEOJson data for our desired areas in Trenton, Little Rock, etc. For this project, I helped work on being able to enclose a certain area using the draw_polygon tool and adding visible markers that would represent airports. 
 I had worked on implementing these draw tools, along with other minute details, for around two weeks. However, I was soon pulled off of the project as other members in the research group had greater experience working with Mapbox and would be able to achieve the desired outcomes more efficiently and quickly.  
 Node Network and Minimum Spanning Tree
