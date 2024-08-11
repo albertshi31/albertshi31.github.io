@@ -14,7 +14,7 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
   *Bachelor of Science in Electrical and Computer Engineering*  
   *Expected Graduation: 2026*
 
-**Projects**
+## Projects
 
 
 ## Contact
