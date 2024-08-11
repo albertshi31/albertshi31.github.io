@@ -30,10 +30,10 @@ I utilized the Djikstra Library to apply the shortest path algorithm to the 50 r
 
 The final and most rewarding project involved understanding and improving the fleet simulator. A previous intern had coded it years prior, but the simulator was not commented well, making it extremely difficult to parse through. After troubleshooting and reaching out to those above me, I learned, over two weeks, that every time an ODD is selected, the simulation runs an animation.json file that has pre-computed the data. However, none of the parameters such as # of kiosks, # of vehicles, # of personTrips, etc could be changed because the function that created the animation.json file seemed inaccessible. 
 
-<img width="416" alt="Screenshot 2024-08-10 at 9 07 06 PM" src="https://github.com/user-attachments/assets/f7e3563e-d278-4f6b-bbba-88162a076e0f">
+<img width="625" alt="Screenshot 2024-08-10 at 9 07 46 PM" src="https://github.com/user-attachments/assets/f2f63a81-c41e-40f6-8b8c-c9b74e96541e">
 
 Nevertheless, one of my biggest breakthroughs happened when I managed to leverage Jupyter Notebook to reverse engineer the arguments of the animation.json file, allowing me to edit these parameters. Using this information, I could better understand how the simulation reacted to increases or decreases in the number of personTrips or autonomous taxis. 
 
-<img width="420" alt="Screenshot 2024-08-10 at 8 59 14 PM" src="https://github.com/user-attachments/assets/e150a15a-4912-4a81-bba5-f96824135480">
+<img width="416" alt="Screenshot 2024-08-10 at 9 07 06 PM" src="https://github.com/user-attachments/assets/f7e3563e-d278-4f6b-bbba-88162a076e0f">
 
 Further, I updated vehicle pop-up boxes to show the kiosk origin, number of completed personTrips, passenger wait times, and walking distances, enhancing the assessment of the autonomous vehicle system’s convenience and viability.
