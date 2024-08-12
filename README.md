@@ -2,13 +2,15 @@
 
 Welcome to my portfolio! Here you can find information about my projects, skills, and experiences.
 
-<img src="https://github.com/user-attachments/assets/a827c922-7896-4bd8-b26a-984a97d0febd" alt="Albert Shi Photo" style="width: 300px; height: 400px; object-fit: cover; border-radius: 50%;"/>
+<img src="https://github.com/user-attachments/assets/a827c922-7896-4bd8-b26a-984a97d0febd" alt="Albert Shi Photo" style="width: 400px; height: 400px; object-fit: cover; border-radius: 50%;"/>
 
 ## About Me
 
 I am an Electrical and Computer Engineering student at Princeton University, passionate about statistics and data analysis, machine learning, optimization, and automation. With hands-on experience from summer research internships and projects, I have developed a strong foundation in hardware integration, data analysis and visualization, and software development. My technical skills include programming in Python, Java, C, and MATLAB and expertise in Arduino, electronic circuit design, and soldering. I am dedicated to leveraging my skills to contribute to innovative solutions in technology and engineering.
 
 ## Education
+
+<img width="461" alt="Screenshot 2024-08-12 at 12 12 12 PM" src="https://github.com/user-attachments/assets/543cd9d7-0305-41c8-992a-9556ab1b007f">
 
 - **Princeton University**  
   *Bachelor of Science in Electrical and Computer Engineering*  
