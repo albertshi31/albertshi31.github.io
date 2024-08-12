@@ -1,6 +1,6 @@
 # RideHop
 
-<img width="500" alt="Screenshot 2024-08-12 at 1 18 25 PM" src="https://github.com/user-attachments/assets/95c82887-195a-477b-bac5-b332d1426df9">
+<img width="350" alt="Screenshot 2024-08-12 at 1 18 25 PM" src="https://github.com/user-attachments/assets/95c82887-195a-477b-bac5-b332d1426df9">
 
 [albertshi.pythonanywhere.com](https://albertshi.pythonanywhere.com)
 
