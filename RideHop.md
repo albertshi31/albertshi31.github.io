@@ -10,7 +10,7 @@ Welcome to RideHop, a website I developed in ORF401: Electronic Commerce using D
 
 <img width="800" alt="Screenshot 2024-08-12 at 1 23 02 PM" src="https://github.com/user-attachments/assets/52535967-a55d-4219-a66a-824f39030df5">
 
-Users can navigate from this Splash Page to the registration page or ride finder page.
+Users can navigate from this Splash Page to the registration or ride search pages.
 
 ## Ride Search
 
