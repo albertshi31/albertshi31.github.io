@@ -1,6 +1,6 @@
-# SAFE Robotics Laboratory
+# SAFE Robotics Laboratory— 2024 Electrical and Computer Engineering Summer Research Internship
 
-2024 Electrical and Computer Engineering Summer Research Internship
+<img width="588" alt="Screenshot 2024-08-12 at 12 10 51 PM" src="https://github.com/user-attachments/assets/b1c89ef9-b0e7-42aa-8e05-da31e4db5017">
 
 I worked exclusively with the 1/14-scale autonomous mini trucks in Professor Jaime Fernandez Fisac's SAFE Robotics Lab. My primary focus involved addressing the truck's velocity control issues.
 
