@@ -20,7 +20,7 @@ Explore RideHop by searching for a city or state! Easily find other travelers he
 
 ## Registration Page
 
-<img width="500" alt="Screenshot 2024-08-12 at 1 46 23 PM" src="https://github.com/user-attachments/assets/d891e8b0-9ad3-4237-9b6d-2bfa6805cb26">
+<img width="391" alt="Screenshot 2024-08-12 at 1 48 35 PM" src="https://github.com/user-attachments/assets/4dd6ab9c-578e-4ff4-83ba-a1a8dbec2f0c">
 
 Submit your ride details and connect with potential travel companions!
 
