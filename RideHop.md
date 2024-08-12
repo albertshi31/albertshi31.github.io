@@ -14,7 +14,7 @@ Users can navigate from this Splash Page to the registration or ride search page
 
 ## Ride Search
 
-<img width="500" alt="Screenshot 2024-08-12 at 1 46 02 PM" src="https://github.com/user-attachments/assets/da6d85bb-2d76-45a7-b774-95e8bc3e891c">
+<img width="700" alt="Screenshot 2024-08-12 at 1 46 02 PM" src="https://github.com/user-attachments/assets/da6d85bb-2d76-45a7-b774-95e8bc3e891c">
 
 Explore RideHop by searching for a city or state! Easily find other travelers heading to the same destination and arrange to share a ride!
 
