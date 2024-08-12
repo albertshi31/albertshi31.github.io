@@ -14,7 +14,7 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
 
 - **Princeton University**  
   *Bachelor of Science in Electrical and Computer Engineering*  
-  *Expected Graduation: 2026*
+  *Expected Graduation: 2026*  
   *QuestBridge National College Match Scholarship Recipient*
 
 ## Projects
