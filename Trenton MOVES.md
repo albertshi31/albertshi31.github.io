@@ -1,8 +1,6 @@
-# Trenton MOVES
+# Trenton MOVES— 2023 Transportation Systems Summer Research Intern
 
 <img width="400" alt="Screenshot 2024-08-12 at 12 08 13 PM" src="https://github.com/user-attachments/assets/551e9c62-1766-476f-9dc5-0e40638a5242">
-
-2023 Transportation Systems Summer Research Intern
 
 ## UI Improvements
 
