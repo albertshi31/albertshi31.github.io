@@ -7,7 +7,6 @@ I worked exclusively with the 1/14-scale autonomous mini trucks in Professor Jai
 ## High Accuracy Velocity Measurement System
 
 <img src="https://github.com/user-attachments/assets/bd6f151a-467b-4c03-b645-8d0082da350d" alt="Mini Truck PWM" width="375"/>
-
 <img src="https://github.com/user-attachments/assets/50efaa4a-202a-43c9-8210-47d547f78f51" alt="Oscope PWM" width="375"/>
 
 
