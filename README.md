@@ -18,6 +18,15 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
 
 ## Projects
 
+### SAFE Robotics
+
+### Trenton MOVES
+
+### RideHop
+
+### ECE203
+
+### ECE115
 
 ## Contact
 
