@@ -20,13 +20,15 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
 
 ### SAFE Robotics
 
+[![Mini Truck](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsaferobotics.princeton.edu%2F&psig=AOvVaw0pmeCaU8_MHkrfwmFCwr7i&ust=1723877314739000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNj1rsn1-IcDFQAAAAAdAAAAABAE)](https://albertshi31.github.io/SAFE%20Robotics)
+
 ### Trenton MOVES
 
 ### RideHop
 
 ### ECE203
 
-#### ECE115
+### ECE115
 
 ## Contact
 
