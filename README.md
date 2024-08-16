@@ -20,7 +20,7 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
 
 ### SAFE Robotics
 
-[![Mini Truck](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsaferobotics.princeton.edu%2F&psig=AOvVaw0pmeCaU8_MHkrfwmFCwr7i&ust=1723877314739000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNj1rsn1-IcDFQAAAAAdAAAAABAE)](https://albertshi31.github.io/SAFE%20Robotics)
+[![Mini Truck](<img width="372" alt="Screenshot 2024-08-15 at 11 50 11 PM" src="https://github.com/user-attachments/assets/84b367e8-5a58-42c3-99bb-bb094356b259">)](https://albertshi31.github.io/SAFE%20Robotics)
 
 ### Trenton MOVES
 
