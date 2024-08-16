@@ -36,7 +36,7 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
 
 ### [ECE115](https://albertshi31.github.io/ECE115)
 
-<img width="200" alt="Screenshot 2024-08-15 at 11 58 41 PM" src="https://github.com/user-attachments/assets/103fa2ac-3f4b-4b7e-a99f-26f7691d8014">
+[<img width="200" alt="Screenshot 2024-08-15 at 11 58 41 PM" src="https://github.com/user-attachments/assets/103fa2ac-3f4b-4b7e-a99f-26f7691d8014">](https://albertshi31.github.io/ECE115)
 
 ## Contact
 
