@@ -20,7 +20,7 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
 
 ### SAFE Robotics
 
-[!(<img width="372" alt="Screenshot 2024-08-15 at 11 50 11 PM" src="https://github.com/user-attachments/assets/84b367e8-5a58-42c3-99bb-bb094356b259">)](https://albertshi31.github.io/SAFE%20Robotics)
+[<img width="372" alt="Screenshot 2024-08-15 at 11 50 11 PM" src="https://github.com/user-attachments/assets/84b367e8-5a58-42c3-99bb-bb094356b259">](https://albertshi31.github.io/SAFE%20Robotics)
 
 ### Trenton MOVES
 
