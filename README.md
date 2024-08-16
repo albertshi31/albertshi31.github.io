@@ -20,23 +20,13 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
 
 ### [SAFE Robotics](https://albertshi31.github.io/SAFE%20Robotics)
 
-<img width="200" alt="Screenshot 2024-08-15 at 11 53 24 PM" src="https://github.com/user-attachments/assets/a54935d0-5473-4afa-8517-72d69fa1c3f0">
-
 ### [Trenton MOVES](https://albertshi31.github.io/Trenton%20MOVES)
-
-<img width="200" alt="Screenshot 2024-08-15 at 11 53 55 PM" src="https://github.com/user-attachments/assets/ed91b479-d594-4779-8d1f-fd00acafa764">
 
 ### [RideHop](https://albertshi31.github.io/RideHop)
 
-<img width="200" alt="Screenshot 2024-08-15 at 11 54 14 PM" src="https://github.com/user-attachments/assets/1492766a-2650-4e35-b879-0cceaad3df24">
-
 ### [ECE203](https://albertshi31.github.io/ECE203)
 
-<img width="200" alt="Screenshot 2024-08-15 at 11 54 52 PM" src="https://github.com/user-attachments/assets/c78bb51b-9657-4b9e-9429-542d46c7379e">
-
 ### [ECE115](https://albertshi31.github.io/ECE115)
-
-<img width="200" alt="Screenshot 2024-08-15 at 11 55 16 PM" src="https://github.com/user-attachments/assets/a2bea7d9-72c9-45ed-853b-ca2faf3e3117">
 
 ## Contact
 
