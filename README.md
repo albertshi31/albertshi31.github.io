@@ -26,7 +26,7 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
 
 ### ECE203
 
-### ECE115
+#### ECE115
 
 ## Contact
 
