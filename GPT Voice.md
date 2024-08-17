@@ -4,8 +4,8 @@
 
 [GPT Voice Recognition Demo](https://youtu.be/zrXF_Pf65AI)
 
-[GPT 2.0 Code](https://github.com/albertshi31/GPT-Project/blob/main/gpt2_generate.py)
-[GPT 3.5 Code](https://github.com/albertshi31/GPT-Project/blob/main/gpt3.5project.py)
+[GPT 2.0 Code](https://github.com/albertshi31/GPT-Project/blob/main/gpt2_generate.py)  
+[UPDATED: GPT 3.5 Code](https://github.com/albertshi31/GPT-Project/blob/main/gpt3.5project.py)
 
 In this project, I developed a voice-activated AI chatbot that integrates BERT for intent classification and GPT-3.5 for generating conversational responses. The system can recognize spoken input, classify the intent of the speech, generate a relevant response, and convert the response to speech.
 
