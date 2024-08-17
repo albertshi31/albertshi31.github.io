@@ -1,4 +1,4 @@
-## Voice Recognition with ChatGPT
+## Voice-Activated AI Chatbot Using BERT and GPT-3.5
 
 <img width="781" alt="Screenshot 2024-08-16 at 7 42 49 PM" src="https://github.com/user-attachments/assets/537ecdf8-0d70-4a14-9afb-7371cc03725e">
 
