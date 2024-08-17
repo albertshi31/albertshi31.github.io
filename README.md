@@ -18,6 +18,10 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
 
 ## Projects
 
+### [Voice-Activated Intelligent Assistant with BERT and GPT-3.5 Integration](https://albertshi31.github.io/GPT%20Voice)
+
+[<img width="200" alt="Screenshot 2024-08-16 at 8 15 59 PM" src="https://github.com/user-attachments/assets/f771e10f-603d-41b5-b93d-054f489e601c">](https://albertshi31.github.io/GPT%20Voice)
+
 ### [Princeton SAFE Robotics Lab Summer Autonomous Mini-Truck Research](https://albertshi31.github.io/SAFE%20Robotics)
 
 [<img width="200" alt="Screenshot 2024-08-15 at 11 57 01 PM" src="https://github.com/user-attachments/assets/2fa729fb-3f2b-47a3-82f0-a039ad425a78">](https://albertshi31.github.io/SAFE%20Robotics)
