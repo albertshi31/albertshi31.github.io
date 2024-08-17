@@ -2,7 +2,7 @@
 
 <img width="781" alt="Screenshot 2024-08-16 at 7 42 49 PM" src="https://github.com/user-attachments/assets/537ecdf8-0d70-4a14-9afb-7371cc03725e">
 
-[GPT Voice Recognition Demo)(https://youtu.be/zrXF_Pf65AI)
+[GPT Voice Recognition Demo](https://youtu.be/zrXF_Pf65AI)
 
 [GPT 2.0 Code](https://github.com/albertshi31/GPT-Project/blob/main/gpt2_generate.py)
 [GPT 3.5 Code](https://github.com/albertshi31/GPT-Project/blob/main/gpt3.5project.py)
