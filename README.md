@@ -38,11 +38,11 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
 
 [<img width="200" alt="Screenshot 2024-08-15 at 11 57 48 PM" src="https://github.com/user-attachments/assets/83001636-6615-4ab4-a3d7-eb443691fce7">](https://albertshi31.github.io/RideHop)
 
-### [ECO316: "It's not about how you start, but how you finish": A Data-Driven Look at ATP Peak Performance, Ranking Consistency, and Career Longevity]
+### [ECO316: A Data-Driven Look at ATP Peak Performance, Ranking Consistency, and Career Longevity]
 
 [<img width="200" alt="Screenshot 2024-08-15 at 11 57 48 PM" src="https://github.com/user-attachments/assets/51be5951-59e9-4526-9647-95978c3365f1">](https://docs.google.com/document/d/1PF09hyd9JnGywsy_4WCDMuEQ408C2XVxmd4lgZVTDp0/edit?usp=sharing)
 
-### [ECE203: Electronic Circuit Design Analysis and Implementation Lab Projects](https://albertshi31.github.io/ECE203)
+### [ECE203: Electronic Circuit Design Analysis and Implementation Lab Projects](https://albertshi31.github.io/ECE203)(https://docs.google.com/document/d/1PF09hyd9JnGywsy_4WCDMuEQ408C2XVxmd4lgZVTDp0/edit?usp=sharing)
 
 [<img width="200" alt="Screenshot 2024-08-15 at 11 58 12 PM" src="https://github.com/user-attachments/assets/017bca7a-4fc2-4f4a-8164-4ce6e4f073ae">](https://albertshi31.github.io/ECE203)
 
