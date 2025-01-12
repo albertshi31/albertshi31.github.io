@@ -6,4 +6,4 @@ CarLab is a required course for ECE Juniors at Princeton. Over a semester, my pa
 
 Speed Control, the first checkpoint, required us to integrate a Hall Effect sensor and implement PID control such that our car could maintain four feet per second on flat ground and an incline. 
 
-https://docs.google.com/document/d/1FjUAw8-4CN-eB71rE0Gm5uxTF7hGn_UUIYvz-QqHQ-Y/edit?usp=sharing
+[Speed Control Report](https://docs.google.com/document/d/1FjUAw8-4CN-eB71rE0Gm5uxTF7hGn_UUIYvz-QqHQ-Y/edit?usp=sharing)
