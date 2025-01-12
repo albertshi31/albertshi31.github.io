@@ -20,7 +20,7 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
 
 ### [Princeton Robotic and Autonomous Systems Lab (CarLab)](https://albertshi31.github.io/CarLab)
 
-[<img width="200" alt="Screenshot 2024-08-16 at 8 15 59 PM" src="https://github.com/user-attachments/assets/f771e10f-603d-41b5-b93d-054f489e601c">](https://albertshi31.github.io/GPT%20Voice)
+[<img width="200" alt="Screenshot 2024-08-16 at 8 15 59 PM" src="https://github.com/user-attachments/assets/3c5917d8-ef38-4533-8262-0fe0e40e6bf3">](https://albertshi31.github.io/CarLab)
 
 ### [Voice-Activated Intelligent Assistant with BERT and GPT-3.5 Integration](https://albertshi31.github.io/GPT%20Voice)
 
