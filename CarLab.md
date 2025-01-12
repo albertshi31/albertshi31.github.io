@@ -11,6 +11,7 @@ For **Speed Control**, the first checkpoint, my partner and I integrated a Hall 
 
 Our next checkpoint involved **Navigation**. My partner and I engineered an autonomous navigation system using PTC08 Camera line-tracking and an LM1881 Video Sync separator to complete two laps per minute on a designated track. 
 
-[Navigation Report](https://docs.google.com/document/d/1qvdFmaF6cAB7-zMkAUEAPizAoc_gaN389oMFs7NynsI/edit?usp=sharing)  
 [Navigation Demo #1](https://youtube.com/shorts/jUEwtH5orgc)  
 [Navigation Demo #2](https://youtube.com/shorts/s1gCNBJIJvk)  
+  
+[Navigation Report](https://docs.google.com/document/d/1qvdFmaF6cAB7-zMkAUEAPizAoc_gaN389oMFs7NynsI/edit?usp=sharing)  
