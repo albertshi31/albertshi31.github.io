@@ -18,7 +18,7 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
 
 ## Projects
 
-### [Princeton Robotic and Autonomous Systems Lab (CarLab)](https://albertshi31.github.io/GPT%20Voice)
+### [Princeton Robotic and Autonomous Systems Lab (CarLab)](https://albertshi31.github.io/CarLab)
 
 [<img width="200" alt="Screenshot 2024-08-16 at 8 15 59 PM" src="https://github.com/user-attachments/assets/f771e10f-603d-41b5-b93d-054f489e601c">](https://albertshi31.github.io/GPT%20Voice)
 
