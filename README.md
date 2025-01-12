@@ -6,7 +6,7 @@ Welcome to my portfolio! Here you can find information about my projects, skills
 
 ## About Me
 
-I am an Electrical and Computer Engineering student at Princeton University, passionate about statistics and data analysis, machine learning, optimization, and automation. With hands-on experience from summer research internships and projects, I have developed a strong foundation in hardware integration, data analysis and visualization, and software development. My technical skills include programming in Python, Java, C, and MATLAB and expertise in Arduino, electronic circuit design, and soldering. I am dedicated to leveraging my skills to contribute to innovative solutions in technology and engineering.
+I am an Electrical and Computer Engineering student at Princeton University, passionate about hardware engineering, systems design, and optimization. With hands-on experience from summer research internships and projects, I have developed a strong foundation in hardware integration, data analysis and visualization, and software development. My technical skills include programming in Python, Java, C, and MATLAB and expertise in Arduino, electronic circuit design, and soldering. I am dedicated to leveraging my skills to contribute to innovative solutions in technology and engineering.
 
 ## Education
 
@@ -17,6 +17,10 @@ I am an Electrical and Computer Engineering student at Princeton University, pas
   *QuestBridge National College Match Scholarship Recipient*
 
 ## Projects
+
+### [Princeton Robotic and Autonomous Systems Lab (CarLab)](https://albertshi31.github.io/GPT%20Voice)
+
+[<img width="200" alt="Screenshot 2024-08-16 at 8 15 59 PM" src="https://github.com/user-attachments/assets/f771e10f-603d-41b5-b93d-054f489e601c">](https://albertshi31.github.io/GPT%20Voice)
 
 ### [Voice-Activated Intelligent Assistant with BERT and GPT-3.5 Integration](https://albertshi31.github.io/GPT%20Voice)
 
